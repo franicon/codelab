@@ -1,7 +1,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Mini private stack overflow where code snippet can be kept or a solution to self error encountered and solved
 
 
 ## Support
